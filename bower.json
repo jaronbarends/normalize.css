@@ -1,8 +1,12 @@
 {
-  "name": "normalize-css",
-  "version": "3.0.3",
+  "name": "normalize-alternative",
+  "description": "Fork of normalize.css with more aggresive margin reset",
+  "version": "0.9",
   "main": "normalize.css",
-  "author": "Nicolas Gallagher",
+  "authors": [
+    "Nicolas Gallagher",
+    "Jarón Barends"
+  ],
   "ignore": [
     "CHANGELOG.md",
     "CONTRIBUTING.md",
