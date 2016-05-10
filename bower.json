@@ -1,17 +1,23 @@
 {
   "name": "normalize-alternative",
-  "description": "Fork of normalize.css with more aggresive margin reset",
-  "version": "3.0.4",
+  "description": "Fork of normalize.css with more aggresive margin reset, as a node packaged module",
   "main": "normalize.css",
   "authors": [
     "Nicolas Gallagher",
-    "Jarón Barends"
+    "Jaron Barends"
   ],
+  "license": "MIT",
+  "keywords": [
+    "normalize",
+    "reset",
+    "css"
+  ],
+  "homepage": "https://github.com/jaronbarends/normalize.css",
   "ignore": [
-    "CHANGELOG.md",
-    "CONTRIBUTING.md",
-    "component.json",
-    "package.json",
-    "test.html"
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
   ]
 }

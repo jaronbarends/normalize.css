@@ -1,4 +1,4 @@
-/*! normalize.css v3.04 | MIT License | github.com/jaronbarends/normalize.css */
+/*! normalize.css v3.05 | MIT License | github.com/jaronbarends/normalize.css */
 /*! Fork of normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
 /**
@@ -141,7 +141,7 @@ dfn {
 
 h1 {
   font-size: 2em;
-  margin: 0;
+  margin: 0;/* changed Jarón */
 }
 
 /**
